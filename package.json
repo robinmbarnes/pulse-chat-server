@@ -1,0 +1,9 @@
+{
+	"name": "pulse-chat-server",
+	"description": "Chat server component for the pulse system",
+	"author": "Robin Barnes <robinmbarnes@gmail.com>",
+	"dependencies": {
+		"socket.io": ">= 1.0.*"
+	}
+}
+
